@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://mandarinquizz.com/</loc>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://mandarinquizz.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mandarinquizz.com/en/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://mandarinquizz.com/zh-cn/" />
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://mandarinquizz.com/zh-tw/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mandarinquizz.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://mandarinquizz.com/ko/" />
+  </url>
+  <url><loc>https://mandarinquizz.com/en/</loc>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://mandarinquizz.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mandarinquizz.com/en/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://mandarinquizz.com/zh-cn/" />
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://mandarinquizz.com/zh-tw/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mandarinquizz.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://mandarinquizz.com/ko/" />
+  </url>
+  <url><loc>https://mandarinquizz.com/zh-cn/</loc>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://mandarinquizz.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mandarinquizz.com/en/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://mandarinquizz.com/zh-cn/" />
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://mandarinquizz.com/zh-tw/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mandarinquizz.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://mandarinquizz.com/ko/" />
+  </url>
+  <url><loc>https://mandarinquizz.com/zh-tw/</loc>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://mandarinquizz.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mandarinquizz.com/en/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://mandarinquizz.com/zh-cn/" />
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://mandarinquizz.com/zh-tw/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mandarinquizz.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://mandarinquizz.com/ko/" />
+  </url>
+  <url><loc>https://mandarinquizz.com/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://mandarinquizz.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mandarinquizz.com/en/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://mandarinquizz.com/zh-cn/" />
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://mandarinquizz.com/zh-tw/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mandarinquizz.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://mandarinquizz.com/ko/" />
+  </url>
+  <url><loc>https://mandarinquizz.com/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://mandarinquizz.com/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://mandarinquizz.com/en/" />
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://mandarinquizz.com/zh-cn/" />
+    <xhtml:link rel="alternate" hreflang="zh-TW" href="https://mandarinquizz.com/zh-tw/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://mandarinquizz.com/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://mandarinquizz.com/ko/" />
+  </url>
+</urlset>
